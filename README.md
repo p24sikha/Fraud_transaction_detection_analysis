@@ -6,6 +6,11 @@ This project involves the analysis of a large-scale transaction dataset to detec
 
 ## Dataset Description
 
+The dataset used in this project can be accessed [here](https://drive.google.com/file/d/1TSnh9aRXxMaCcGiyoNAr1tbf5_PNghAm/view?usp=drive_link) (Dataset).
+
+
+## Dataset Description
+
 The dataset consists of the following columns:
 
 - **step**: A unit of time where each step is equivalent to an hour.
